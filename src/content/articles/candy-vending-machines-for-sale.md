@@ -2,7 +2,10 @@
 title: "Candy Vending Machines for Sale: The Lowest-Cost Way In"
 description: "Candy Vending Machines for Sale: The Lowest-Cost Way In"
 keyword: "candy vending machines for sale"
-publishDate: 2026-07-12
+publishDate: 2026-07-13
+updatedDate: 2026-07-13
+author: "The VendingStartup Team"
+draft: false
 ---
 
 Candy Vending Machines for Sale: The Lowest-Cost Way In
@@ -35,7 +38,7 @@ The triple head is the default for a reason: three products at one location for 
 
 The per-vend economics
 
-![](/media/e0fe58815d410615b0876fc2d58c293dd6dad4dd.png)
+![](media/e0fe58815d410615b0876fc2d58c293dd6dad4dd.png)
 
 *Example per-vend cost and gross profit for common bulk products. Approximate figures at typical wholesale prices.*
 
