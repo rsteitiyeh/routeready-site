@@ -1,0 +1,25 @@
+{
+  "SITE": "https://vendingstartup.com",
+  "BRAND": "VendingStartup",
+  "niche": "06-vending",
+  "stealth": true,
+  "toolArchetype": "calculator",
+  "mailerlite": { "formAction": "https://assets.mailerlite.com/jsonp/PLACEHOLDER/forms/subscribe" },
+  "lemonsqueezy": { "checkoutUrl": "https://PLACEHOLDER.lemonsqueezy.com/checkout" },
+  "cfBeaconToken": "",
+  "magnet": { "file": "/downloads/location-scouting-checklist.pdf", "doneMessage": "You're in - the Location Scouting Checklist is downloading now." },
+  "author": { "name": "{{AUTHOR_NAME}}", "bio": "{{AUTHOR_BIO}}" },
+  "legalEntity": "Trilot LLC",
+  "comingSoon": {
+    "promise": "A no-hype vending machine business plan, built on real math. Coming soon.",
+    "captureLabel": "Send me the free Location Scouting Checklist"
+  },
+  "theme": {
+    "bg": "#faf5ec",
+    "ink": "#28231f",
+    "accent": "#d92f2f",
+    "accent2": "#56382d",
+    "headingFont": "Rockwell, \"Roboto Slab\", Georgia, serif",
+    "bodyFont": "\"Trebuchet MS\", Arial, sans-serif"
+  }
+}

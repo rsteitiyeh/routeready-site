@@ -1,0 +1,25 @@
+{
+  "kind": "calculator",
+  "heading": "Your route",
+  "sub": "Enter one machine's numbers. Get monthly profit and payback time in seconds.",
+  "fields": [
+    { "id": "salesPerDay", "label": "Sales per day", "unit": "items", "type": "number", "value": 12, "min": 0 },
+    { "id": "avgPrice", "label": "Average sale price", "unit": "$", "type": "number", "value": 2.00, "min": 0, "step": 0.05 },
+    { "id": "productCostPct", "label": "Product cost", "unit": "% of sale price", "type": "number", "value": 40, "min": 0, "step": 1 },
+    { "id": "commissionPct", "label": "Commission to location", "unit": "% of gross sales", "type": "number", "value": 15, "min": 0, "step": 1 },
+    { "id": "machineCost", "label": "Machine cost", "unit": "$", "type": "number", "value": 3000, "min": 0, "step": 50 },
+    { "id": "visitsPerMonth", "label": "Restock visits per month", "type": "number", "value": 4, "min": 0, "step": 1 },
+    { "id": "costPerVisit", "label": "Cost per visit", "unit": "$", "type": "number", "value": 25, "min": 0, "step": 1 }
+  ],
+  "outputs": [
+    { "id": "gross", "label": "Monthly gross" },
+    { "id": "net", "label": "Monthly net profit" },
+    { "id": "payback", "label": "Months to pay back machine" }
+  ],
+  "statuses": [
+    { "id": "ok", "label": "Profitable", "tone": "ok" },
+    { "id": "warn", "label": "Slow payback", "tone": "warn" },
+    { "id": "bad", "label": "Losing money", "tone": "bad" }
+  ],
+  "disclaimer": "Illustrative example only, not a guarantee. Assumes 30.4 sale-days per month. Excludes taxes, card fees, repairs, spoilage, financing costs and your labor. Real results depend on your location, product mix and effort."
+}
