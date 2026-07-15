@@ -8,7 +8,7 @@
   "lemonsqueezy": { "checkoutUrl": "https://PLACEHOLDER.lemonsqueezy.com/checkout" },
   "cfBeaconToken": "",
   "magnet": { "file": "/downloads/location-scouting-checklist.pdf", "doneMessage": "You're in - the Location Scouting Checklist is downloading now." },
-  "author": { "name": "{{AUTHOR_NAME}}", "bio": "{{AUTHOR_BIO}}" },
+  "author": { "name": "the VendingStartup team (Trilot)", "bio": "VendingStartup is published by the Trilot team. We build free, fact-checked guides, tools, and study resources, verified against the primary sources they cover. More at https://trilot.com." },
   "legalEntity": "Trilot LLC",
   "comingSoon": {
     "promise": "A no-hype vending machine business plan, built on real math. Coming soon.",
