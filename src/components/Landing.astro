@@ -8,7 +8,6 @@
 import site from '../../site.config.json';
 import Base from '../layouts/Base.astro';
 import Tool from './Tool.astro';
-const ls = site.lemonsqueezy.checkoutUrl;
 ---
 <Base
   title="Vending Machine Business Plan & Profit Calculator | VendingStartup"
@@ -34,7 +33,7 @@ const ls = site.lemonsqueezy.checkoutUrl;
     <nav aria-label="Main navigation">
       <a href="#guide">Guide</a><a href="#tool">Calculator</a><a href="#checklist">Locations</a><a href="#faq">FAQ</a>
     </nav>
-    <a class="btn sm" href="#guide">Get the $19 Guide</a>
+    <a class="btn sm" href="#guide">Get the free guide</a>
   </header>
   <div class="ad">Advertisement</div>
 
@@ -56,7 +55,7 @@ const ls = site.lemonsqueezy.checkoutUrl;
         <div class="machine-top"><span>VENDINGSTARTUP</span><b>SNACK MATH</b></div>
         <div class="machine-window">
           <div class="shelf-row">
-            <div class="snack red"><span>A1</span><b>PLAN</b><small>$19</small></div>
+            <div class="snack red"><span>A1</span><b>PLAN</b><small>FREE</small></div>
             <div class="snack yellow"><span>A2</span><b>COST</b><small>$2.5K</small></div>
             <div class="snack blue"><span>A3</span><b>LOCATE</b><small>75+</small></div>
           </div>
@@ -121,9 +120,13 @@ const ls = site.lemonsqueezy.checkoutUrl;
       </div>
       <div class="price">
         <p>VendingStartup guide</p>
-        <strong><sup>$</sup>19</strong>
-        <a class="btn" href={ls} rel="nofollow">Get the VendingStartup guide -&gt;</a>
-        <small>Instant digital access. One-time purchase.</small>
+        <strong>FREE</strong>
+        <form class="email compact" data-subscribe method="post">
+          <label class="sr" for="email3">Email address</label>
+          <input id="email3" name="fields[email]" type="email" required placeholder="you@example.com" />
+          <button type="submit">Send me the free guide</button>
+        </form>
+        <small>Instant digital access. No cost, ever.</small>
       </div>
     </section>
 
@@ -137,7 +140,6 @@ const ls = site.lemonsqueezy.checkoutUrl;
     </section>
 
     <section class="section byline">
-      <div class="avatar">{'{{AUTHOR_PHOTO}}'}</div>
       <div>
         <p class="eyebrow">Behind VendingStartup</p>
         <h2>{site.author.name}</h2>
@@ -164,16 +166,16 @@ const ls = site.lemonsqueezy.checkoutUrl;
     <section class="final">
       <p class="eyebrow light">Pick your next move</p>
       <h2>Run the numbers. Then build the route.</h2>
-      <p>Use the free VendingStartup calculator now, or get the full $19 startup guide and avoid the expensive first-route guesses.</p>
-      <div class="actions"><a class="btn" href="#tool">Use the free calculator</a><a class="text-link" href="#guide">Get the $19 guide -&gt;</a></div>
+      <p>Use the free VendingStartup calculator now, or get the full startup guide - free - and avoid the expensive first-route guesses.</p>
+      <div class="actions"><a class="btn" href="#tool">Use the free calculator</a><a class="text-link" href="#guide">Get the free guide -&gt;</a></div>
     </section>
   </main>
 
   <footer>
     <a class="brand" href="#top"><span class="coin-slot" aria-hidden="true"><i></i></span>Route<span class="hl">Ready</span></a>
-    <nav><a href="#tool">Calculator</a><a href="#checklist">Checklist</a><a href="#guide">Guide</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a></nav>
+    <nav><a href="#tool">Calculator</a><a href="#checklist">Checklist</a><a href="#guide">Guide</a><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a><a href="/disclosure/">Disclosure</a><a href="/editorial/">Editorial</a></nav>
     <p>Results depend on your locations and effort. VendingStartup provides educational estimates, not income guarantees or legal, tax, or financial advice.</p>
-    <small>{site.legalEntity} - (c) 2026 VendingStartup</small>
+    <small>&copy; 2026 VendingStartup</small>
   </footer>
 </Base>
 

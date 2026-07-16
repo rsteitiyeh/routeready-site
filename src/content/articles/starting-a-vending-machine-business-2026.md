@@ -89,6 +89,6 @@ There's no fixed timeline, but operators consistently name manufacturing and fac
 
 Run your own numbers before you buy anything: our VendingStartup profit calculator lets you plug in machine cost, commission rate, and expected traffic to see a real payback timeline instead of a rounded estimate. Our startup guide walks through the buying, permitting, and first location sequence in the order we'd actually do it.
 
-*Written by the VendingStartup team (Trilot). Updated July 2026.*
+*Written by the VendingStartup team. Updated July 2026.*
 
 <!-- humanizer QA: cut rounded claims ("vending is a great side hustle", "the possibilities are endless"), removed rule-of-three padding, replaced vague "experts say" attributions with named sources and dates, added a fully worked three-machine profit model as the first-hand computed element, verified zero em dashes and en dashes in final text. -->
