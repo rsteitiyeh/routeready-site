@@ -5,8 +5,6 @@ keyword: "ice vending machine price"
 publishDate: 2026-07-17
 ---
 
-# Ice Vending Machine Price: Costs, Sites, and the Revenue Model
-
 An ice vending machine costs roughly $40,000 to $150,000 depending on the manufacturer and whether it's a bagged-ice unit or a self-serve bulk kiosk, with most standalone units for a single site landing in the $50,000 to $80,000 range once delivery and installation are included. That's before the site itself: a concrete pad, a water and drain line, dedicated electrical service, and a monthly lease if you don't own the lot.
 
 Price varies mainly on capacity and features. A basic bagged-ice dispenser with no on-site production costs less than a full ice-making, bagging, and dispensing kiosk that produces its own ice around the clock. We break down what drives the price, what a site actually needs, and what realistic revenue looks like before you commit six figures to one machine.
@@ -66,7 +64,5 @@ Franchise disclosure data compiled from IceBorn's numbers suggests an average ma
 At minimum: a reinforced concrete pad rated for the machine's weight, a water supply line, a drain line, and dedicated electrical service matching the manufacturer's spec. Outdoor sites exposed to vehicle traffic also need protective bollards.
 
 Sources: [Boreas Iceman technical specifications](https://www.boreasiceman.com/technical), [Sharpsheets IceBorn franchise cost analysis](https://sharpsheets.io/blog/iceborn-franchise-fdd-profits-costs-fees/).
-
-*Written by the VendingStartup team. Updated July 15, 2026.*
 
 <!-- humanizer QA: flagged and removed unverifiable brand names surfaced in early research; labeled manufacturer/franchisor revenue claims as marketing claims rather than neutral fact; cut generic "the future of ice vending" style closer; verified zero em dashes and en dashes in final text. -->

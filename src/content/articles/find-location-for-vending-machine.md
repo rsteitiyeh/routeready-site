@@ -5,8 +5,6 @@ keyword: "find location for vending machine"
 publishDate: 2026-07-17
 ---
 
-# How to Find a Location for a Vending Machine
-
 Finding a location for a vending machine means scouting a site with steady daily foot traffic, identifying who actually controls the space (not just who works there), and pitching a specific commission or flat-fee arrangement before you ever move a machine in. The strongest locations are places people already spend time waiting: break rooms, factory floors, apartment leasing offices, gyms. Weak locations have traffic but no dwell time, like a busy sidewalk with nowhere to stop.
 
 Where you land depends on three things: how many people pass the spot each day, how much competition already exists there (another machine, a vending contract with a competitor, a cafeteria), and how well you frame the pitch to whoever signs off. We walk through the scouting math, the pitch itself, and the commission numbers you should expect to negotiate.
@@ -68,7 +66,5 @@ For a first machine, cold-calling nearby businesses directly is usually faster a
 
 **What kind of locations should I avoid?**
 Skip sites that already have an exclusive vending or cafeteria contract, locations with heavy foot traffic but no dwell time (nobody stops), and any site where the person you're pitching can't actually authorize the placement.
-
-*Written by the VendingStartup team. Updated July 15, 2026.*
 
 <!-- humanizer QA: cut vague "experts say" framing and replaced with named sources; removed rule-of-three padding; kept honest uncertainty on unverifiable cold-call conversion stat instead of inventing a percentage; verified zero em dashes and en dashes in final text. -->
