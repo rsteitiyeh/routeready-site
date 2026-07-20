@@ -1,6 +1,6 @@
 ---
 title: "Used Snack Vending Machine for Sale: A Buyer's Field Guide"
-description: ""
+description: "A used snack vending machine typically costs $1,200 to $4,100, with common combo units from brands like AMS and Seaga clustering between $2,300 and $4,000"
 keyword: "used snack vending machine for sale"
 publishDate: 2026-07-18
 ---

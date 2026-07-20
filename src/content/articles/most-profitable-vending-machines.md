@@ -1,6 +1,6 @@
 ---
 title: "Most Profitable Vending Machines: Types Ranked Honestly"
-description: ""
+description: "Bulk candy and ice vending machines post the highest gross margins of any vending category, commonly cited in the 75% to 95% range, but snack and drink"
 keyword: "most profitable vending machines"
 publishDate: 2026-07-17
 ---

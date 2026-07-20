@@ -1,6 +1,6 @@
 ---
 title: "Vending Machine Contract: Location Agreements Explained"
-description: ""
+description: "A vending machine contract, usually called a location or placement agreement, sets the term length, commission or fee structure, maintenance"
 keyword: "vending machine contract"
 publishDate: 2026-07-20
 ---

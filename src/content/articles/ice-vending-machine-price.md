@@ -1,6 +1,6 @@
 ---
 title: "Ice Vending Machine Price: Costs, Sites, and the Revenue Model"
-description: ""
+description: "An ice vending machine costs roughly $40,000 to $150,000 depending on the manufacturer and whether it's a bagged-ice unit or a self-serve bulk kiosk, with"
 keyword: "ice vending machine price"
 publishDate: 2026-07-17
 ---
