@@ -6,6 +6,7 @@
  * with a VendingStartup vending-machine skin below.
  */
 import site from '../../site.config.json';
+import { organization, website } from '../lib/seo.mjs';
 import Base from '../layouts/Base.astro';
 import Tool from './Tool.astro';
 ---
@@ -14,6 +15,12 @@ import Tool from './Tool.astro';
   description="Build a realistic vending machine business plan with VendingStartup. Compare startup costs, location commissions, licenses, machine prices, and route profit math."
 >
   <Fragment slot="head">
+    <!-- seo-org-block: entity anchor. Without an Organization node a search or
+         answer engine has no machine-readable identity for this brand at all. -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@graph': [organization(site), website(site)]
+    })} />
     <script type="application/ld+json" set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'FAQPage',
