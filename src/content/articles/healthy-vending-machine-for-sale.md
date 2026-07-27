@@ -1,6 +1,6 @@
 ---
 title: "Healthy Vending Machines for Sale: Buyer's Guide"
-description: ""
+description: "Healthy vending combos cost $2,400 to $8,000 new or $1,500 to $3,000 used. Refrigeration and ADA fit matter most for resale."
 keyword: "healthy vending machine for sale"
 publishDate: 2026-07-26
 ---

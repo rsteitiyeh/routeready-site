@@ -1,6 +1,6 @@
 ---
 title: "Vending Machine Profit: The Real Math Behind the Numbers"
-description: ""
+description: "A vending machine nets $75 to $650 a month, averaging near $300, after commission and product cost eat most of the gross."
 keyword: "vending machine profit"
 publishDate: 2026-07-22
 ---

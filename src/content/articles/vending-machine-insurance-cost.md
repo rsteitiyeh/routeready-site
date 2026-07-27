@@ -1,6 +1,6 @@
 ---
 title: "Vending Machine Insurance Cost: 2026 Budget Guide"
-description: ""
+description: "Vending liability insurance averages $37 a month, or $58 for a policy adding property coverage on the machines themselves."
 keyword: "vending machine insurance cost"
 publishDate: 2026-07-27
 ---

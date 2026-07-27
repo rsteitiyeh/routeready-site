@@ -1,6 +1,6 @@
 ---
 title: "Vending Machine for Sale Under $500: What You Actually Get"
-description: ""
+description: "Under $500 usually buys a new bulk candy machine near $340, not a working snack machine. Here is what to check first."
 keyword: "vending machine for sale under $500"
 publishDate: 2026-07-21
 ---

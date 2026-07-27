@@ -1,6 +1,6 @@
 ---
 title: "Vending Machine Routes: What They Are and How to Value One"
-description: ""
+description: "Vending machine routes sold at a median 2.15 times yearly earnings from 2021 to 2025. Here is how that multiple gets set."
 keyword: "vending machine routes"
 publishDate: 2026-07-26
 ---

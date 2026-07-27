@@ -1,6 +1,6 @@
 ---
 title: "Vending Machine Business Plan: Free Template & Guide"
-description: ""
+description: "A vending business plan follows nine SBA sections built on real machine costs, plus five years of financial projections."
 keyword: "vending machine business plan"
 publishDate: 2026-07-27
 ---
