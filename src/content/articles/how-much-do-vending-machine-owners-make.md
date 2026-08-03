@@ -1,6 +1,6 @@
 ---
 title: "How Much Do Vending Machine Owners Really Make?"
-description: ""
+description: "Established vending machine routes sold on BizBuySell report a median $39,601 in yearly owner earnings on $71,000 revenue, about a 56 percent margin."
 keyword: "how much do vending machine owners make"
 publishDate: 2026-07-28
 ---

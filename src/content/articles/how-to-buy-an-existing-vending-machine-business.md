@@ -1,6 +1,6 @@
 ---
 title: "How to Buy an Existing Vending Machine Business"
-description: ""
+description: "Buying a vending machine business means verifying seller income against bank records and pricing it against the median 2.15 times earnings multiple."
 keyword: "buy a vending machine business"
 publishDate: 2026-07-28
 ---
