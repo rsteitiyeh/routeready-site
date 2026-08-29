@@ -68,5 +68,3 @@ Most standard soda and combo machines run on standard 120V household-grade outle
 A dedicated soda or drink machine only vends beverages. A combo machine vends both snacks and drinks from the same unit, which is more common in most standard locations since it serves more of a location's demand from one machine footprint.
 
 Sources: [VMFS USA current catalog pricing](https://vmfsusa.com/collections/all), [A&M Equipment Sales, used soda vending machines](https://www.amequipmentsales.com/prodcat/used-vending-machines/used-soda-vending-machines/).
-
-<!-- humanizer QA: surfaced the bottler brand-lock contract issue, a real buying risk most generic price-list articles never mention, as the article's central information-gain point; separated dealer/refurbished pricing from raw private-party listing prices rather than blending them into one misleading range; verified zero em dashes and en dashes in final text. -->

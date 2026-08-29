@@ -67,5 +67,3 @@ A refurbished machine from a reputable reseller with a parts warranty is usually
 No. Location traffic drives revenue more than machine price. A moderately priced combo machine in a strong location consistently outperforms an expensive specialty machine in a weak one.
 
 Sources: [VMFS USA current catalog pricing](https://vmfsusa.com/collections/all), [A&M Equipment Sales](https://www.amequipmentsales.com/prodcat/used-vending-machines/).
-
-<!-- humanizer QA: reframed "best" as a budget-tier decision tree tied to location traffic instead of naming a single winner, which is the actual information gap in most "best vending machine" listicles; added the specific traffic threshold (40+ daily users) where smart-tier features pay off rather than a vague "if it's busy" claim; explicitly warned against the most common buyer mistake (overspending for a weak location) as an operator-voice observation; verified zero em dashes and en dashes in final text. -->

@@ -67,5 +67,3 @@ A seller who won't share the price or location without private messaging first, 
 Only if you can inspect it in person first and have a realistic budget for the repair, which can easily run $300 to $500 or more for something like a compressor. Otherwise you risk paying full market price once repairs are added, without the certainty of a properly tested machine.
 
 Source: [NAMA Foundation 2022-2023 Industry Census](https://namanow.org/wp-content/uploads/NAMA-Census-FINAL.pdf).
-
-<!-- humanizer QA: separated the "new bulk candy" and "used full-size machine" categories explicitly instead of blurring them, which is the actual information gap in existing content on this keyword; kept revenue ranges hedged as illustrative, not guaranteed; verified zero em dashes and en dashes in final text. -->

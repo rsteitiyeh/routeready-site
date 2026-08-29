@@ -77,5 +77,3 @@ Compressor failure. Refrigerated combo units depend on a working compressor to k
 Mostly yes, though some healthy vending placements (schools especially) come with additional nutritional guideline requirements for what products can be stocked, separate from the machine itself.
 
 Sources: [AMS Healthy Vend Combo Vending Machine](https://www.amequipmentsales.com/product/ams-healthy-vend-combo/), [Naturals2Go, "How Much Do Vending Machines Cost?"](https://naturals2go.com/vending-machine-cost/).
-
-<!-- humanizer QA: replaced a vague "healthy vending is a growing trend" framing with a direct claim that the health label is a merchandising choice on standard combo hardware, backed by named machine specs; explicitly flagged the lack of independent healthy-vs-traditional sales data instead of inventing a percentage; verified zero em dashes and en dashes in final text. -->

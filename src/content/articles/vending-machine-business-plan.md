@@ -83,5 +83,3 @@ It's harder than financing an existing route purchase. SBA 7(a) acquisition loan
 Machine price quotes from suppliers, a sample or signed location placement contract, and a list of the permits and licenses required in your state and municipality, all supporting documents that back up the numbers used earlier in the plan.
 
 Sources: [SBA, "Write your business plan"](https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan), [SBA, 7(a) loans](https://www.sba.gov/funding-programs/loans/7a-loans).
-
-<!-- humanizer QA: replaced generic "include market research" advice with a specific instruction to name target locations and traffic data instead of industry-wide statistics; tied the funding section to the real SBA acquisition-loan eligibility rule instead of implying startup loans are equally easy; verified zero em dashes and en dashes in final text. -->

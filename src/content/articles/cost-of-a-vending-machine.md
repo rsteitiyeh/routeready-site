@@ -71,5 +71,3 @@ Yes, typically 40% to 65% cheaper, but a dealer-refurbished machine with a short
 It depends on the tier. A basic instant coffee machine ($2,000 to $3,500) is comparable to a snack machine, but a fully automatic bean-to-cup commercial unit can run $7,500 to $12,000 or more due to the grinder and boiler required.
 
 Sources: [VMFS USA, Coffee Vending Machine Price Guide](https://vmfsusa.com/blogs/business/coffee-vending-machine-price-guide), [VMFS USA current catalog pricing](https://vmfsusa.com/collections/all), [Naturals2Go, "How Much Do Vending Machines Cost?"](https://naturals2go.com/vending-machine-cost/).
-
-<!-- humanizer QA: built a real cross-category price table from one supplier's actual current listings instead of a single vague "$1,000 to $20,000" range, and explicitly scoped the article as equipment-only versus the separate full-startup-budget article to avoid duplicating our own cost breakdown; flagged that payback speed depends on both machine cost and per-item price, not machine cost alone; verified zero em dashes and en dashes in final text. -->

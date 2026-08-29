@@ -68,5 +68,3 @@ A seller who won't let you test-vend the machine in person, won't share the pric
 Only if you have real repair skills or a trusted technician, and the price reflects that risk. A dead compressor alone costs $500 or more to replace, which can erase most of the savings from a rock-bottom purchase price.
 
 Source: [NAMA Foundation 2022-2023 Industry Census](https://namanow.org/wp-content/uploads/NAMA-Census-FINAL.pdf).
-
-<!-- humanizer QA: replaced vague "scams are common" with an attributed practitioner source; kept dollar ranges tied to specific real listings rather than rounded claims; cut symmetrical "great option, right choice" filler; verified zero em dashes and en dashes in final text. -->

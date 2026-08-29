@@ -67,5 +67,3 @@ Locations with real dwell time: restaurant waiting areas, bowling alleys, laundr
 Yes, it's the lowest-cost entry point in the industry. A single machine costs under $150, and the low product cost means even a small route can turn a real profit if the locations have genuine foot traffic and dwell time.
 
 Sources: [CandyMachines.com current catalog pricing](https://www.candymachines.com/Candy-Gumball-Toy-Vending-Machines-C12.aspx), [Gumball Machine Warehouse](https://www.gumball-machine.com/collections/vending-machines).
-
-<!-- humanizer QA: pulled real current per-unit prices for single-head, triple-head, and rack machines instead of one vague "a few hundred dollars" range, and built out the commission math (product cost vs. commission split vs. operator take) as an original synthesized number rather than repeating a single unsourced income figure; named dwell time as the specific mechanism behind location quality rather than a vague "location matters" claim; verified zero em dashes and en dashes in final text. -->

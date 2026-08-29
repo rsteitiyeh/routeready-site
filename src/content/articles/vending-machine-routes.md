@@ -81,5 +81,3 @@ Median time on market for sold vending machine businesses was 64 days on BizBuyS
 Rarely at face value. BizBuySell data shows a median 0.93 sale to asking price ratio, meaning routes typically close about 7% below the listed price after buyers negotiate using verified income documentation.
 
 Sources: [BizBuySell Vending Machine Business Valuation Benchmarks](https://www.bizbuysell.com/learning-center/valuation-benchmarks/vending-machine-business/).
-
-<!-- humanizer QA: built the whole value argument around one primary sourced dataset (BizBuySell's five-year sold vs listed multiples) instead of a rounded "routes sell for 2 to 3 times earnings" claim; named the specific due-diligence failure mode (seller summary vs bank statements) instead of a generic "do your research" line; verified zero em dashes and en dashes in final text. -->

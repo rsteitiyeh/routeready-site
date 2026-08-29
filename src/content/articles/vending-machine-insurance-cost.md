@@ -67,5 +67,3 @@ Generally yes, since premiums scale with business revenue, property value, and f
 For most operators with multiple machines, yes. The BOP adds commercial property coverage protecting the machines against vandalism and theft for roughly $21 more a month than general liability alone, which is generally worth it given how exposed unattended machines are.
 
 Sources: [Insureon, Vending Machine Business Insurance Costs](https://www.insureon.com/retail-business-insurance/vending-machine-operators/cost).
-
-<!-- humanizer QA: anchored every figure to a single named, dated source (Insureon's median premium data) rather than a "insurance typically costs a few hundred dollars" hand-wave; explained the BOP-vs-GL cost gap in dollar terms instead of a vague "more coverage is better" claim; verified zero em dashes and en dashes in final text. -->

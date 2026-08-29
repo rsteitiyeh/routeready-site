@@ -65,5 +65,3 @@ Consumers increasingly use retailer loyalty programs and coupon apps that underc
 It can still make sense with a genuinely strong location and modern, cashless-ready equipment, but entering with an outdated cash-only setup in a mediocre location is a weaker bet than it was several years ago, given the industry's overall contraction.
 
 Sources: [IBISWorld, Vending Machine Operators in the US Industry Analysis](https://www.ibisworld.com/united-states/industry/vending-machine-operators/1113/), [Nayax, Vending Machine Payment Solutions](https://www.nayax.com/business_type/vending/), [BizBuySell Vending Machine Business Valuation Benchmarks](https://www.bizbuysell.com/learning-center/valuation-benchmarks/vending-machine-business/).
-
-<!-- humanizer QA: replaced a generic "vending is profitable" claim with IBISWorld's actual 2026 industry-decline figures and explicitly separated industry-average decline from a new entrant's realistic competitive position; named the specific growth segments (micro markets, cashless) instead of vaguely gesturing at "trends"; verified zero em dashes and en dashes in final text. -->

@@ -78,5 +78,3 @@ Typically a general business license and, in most states, a sales tax or seller'
 Initial product inventory, since new operators tend to overbuy before learning what actually sells at a specific location, and a properly working cashless card reader, which is increasingly required to win good locations rather than optional.
 
 Sources: [Naturals2Go, "How Much Do Vending Machines Cost?"](https://naturals2go.com/vending-machine-cost/), [Insureon, Vending Machine Business Insurance Costs](https://www.insureon.com/retail-business-insurance/vending-machine-operators/cost), [SBA, "Apply for licenses and permits"](https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits).
-
-<!-- humanizer QA: broke the single "$2,000 to $50,000" range down into a real line-item table with named sources instead of leaving it as one vague number; flagged licensing/LLC costs as state-dependent rather than quoting one national figure as universal; verified zero em dashes and en dashes in final text. -->

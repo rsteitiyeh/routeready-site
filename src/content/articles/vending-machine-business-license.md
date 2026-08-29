@@ -69,5 +69,3 @@ Yes, typically. Machines dispensing perishable or potentially hazardous food gen
 Not usually as a legal requirement, but most operators form one for liability protection since machines are placed in public locations. LLC filing costs $40 to $500 depending on the state.
 
 Sources: [California CDTFA, Publication 118: Vending Machine Food Sales](https://www.cdtfa.ca.gov/formspubs/pub118/), [Texas Comptroller, Coin-Operated Machines Taxes and Fees](https://comptroller.texas.gov/taxes/coin-op/), [SBA, "Apply for licenses and permits"](https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits).
-
-<!-- humanizer QA: replaced a single generic "get a business license" claim with a real state-comparison table showing California, Texas, and Massachusetts handle vending licensing in genuinely different structures, not just different fees; explicitly separated the LLC decision from the licensing requirements instead of blending them into one list; verified zero em dashes and en dashes in final text. -->

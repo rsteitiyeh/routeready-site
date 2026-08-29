@@ -70,5 +70,3 @@ All coin-operated machine licenses and occupation tax decals renew annually on N
 Yes, an LLC isn't legally required to operate, but most operators form one for personal liability protection since machines are placed in public and semi-public locations. LLC filing through the Texas Secretary of State costs $300 for a standard filing.
 
 Sources: [Texas Comptroller, Coin-Operated Machines Taxes and Fees](https://comptroller.texas.gov/taxes/coin-op/), [Texas DSHS, Permitting Information for Retail Food Establishments](https://www.dshs.texas.gov/retail-food-establishments/permitting-information-retail-food-establishments), [Texas Comptroller, Sales Tax Permit Application](https://comptroller.texas.gov/taxes/permit/).
-
-<!-- humanizer QA: pulled the exact fee schedule and decal requirement straight from the Texas Comptroller's own published rate table instead of a rounded "a few hundred dollars" estimate, and flagged that the coin-operated machine license and the sales tax permit are two separate, both-mandatory requirements rather than implying one covers the other; verified zero em dashes and en dashes in final text. -->

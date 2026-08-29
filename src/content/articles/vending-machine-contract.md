@@ -69,5 +69,3 @@ Yes. Most agreements give the host the right to terminate for breach of contract
 
 **What's an exclusivity clause, and should I ask for one?**
 It's a clause giving you sole rights to place vending machines at that location, blocking competitors from setting up alongside you. Ask for it on any location generating meaningful volume, since it protects the revenue you've built there.
-
-<!-- humanizer QA: flagged the unverified "$1 million minimum" figure as commonly cited rather than codified, instead of stating it as settled fact; removed negative-parallelism constructions; verified zero em dashes and en dashes in final text. -->

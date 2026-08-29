@@ -66,5 +66,3 @@ For a first machine, cold-calling nearby businesses directly is usually faster a
 
 **What kind of locations should I avoid?**
 Skip sites that already have an exclusive vending or cafeteria contract, locations with heavy foot traffic but no dwell time (nobody stops), and any site where the person you're pitching can't actually authorize the placement.
-
-<!-- humanizer QA: cut vague "experts say" framing and replaced with named sources; removed rule-of-three padding; kept honest uncertainty on unverifiable cold-call conversion stat instead of inventing a percentage; verified zero em dashes and en dashes in final text. -->

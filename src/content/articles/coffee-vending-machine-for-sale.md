@@ -74,5 +74,3 @@ It depends on headcount, but a bean-to-cup machine rated for 250 to 400 cups a d
 Effectively yes in most 2026 workplaces, since a meaningful share of employees don't carry cash regularly. Cashless integration typically adds $300 to $800 to the machine price but is standard on new mid-tier and commercial units.
 
 Sources: [VMFS USA, Coffee Vending Machine Price Guide](https://vmfsusa.com/blogs/business/coffee-vending-machine-price-guide), [Nayax, Vending Machine Payment Solutions](https://www.nayax.com/business_type/vending/).
-
-<!-- humanizer QA: replaced a generic "coffee machines cost a few thousand dollars" framing with a real supplier's four-tier price table and three named real product listings (Coffee and Hot Beverage Machine at $8,950, Premium Countertop at $3,950, CorePro at $4,950) instead of an invented range; sized machine recommendation to headcount rather than giving one blanket "buy this" answer; verified zero em dashes and en dashes in final text. -->

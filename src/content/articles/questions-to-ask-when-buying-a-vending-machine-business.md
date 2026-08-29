@@ -73,5 +73,3 @@ A seller who won't provide machine-level financials, reluctance to let you inspe
 Yes, it's standard practice. A two-to-four-week transition where the seller personally introduces the buyer at each location significantly reduces the risk that a location ends the placement shortly after the sale.
 
 Sources: [BizBuySell Vending Machine Business Valuation Benchmarks](https://www.bizbuysell.com/learning-center/valuation-benchmarks/vending-machine-business/), [SBA, "Buy an existing business or franchise"](https://www.sba.gov/business-guide/plan-your-business/buy-existing-business-or-franchise).
-
-<!-- humanizer QA: structured every section as an actual list of questions a buyer would ask out loud rather than a description of the buying process, keeping this distinct from our separate how-to-buy article; named the specific red flags (informal location agreements, reluctance to allow full inspection) instead of a vague "do your homework" line; verified zero em dashes and en dashes in final text. -->

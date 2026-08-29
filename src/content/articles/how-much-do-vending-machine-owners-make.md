@@ -71,5 +71,3 @@ It requires regular restocking, cash or cashless reconciliation, and machine mai
 Because sources measure different things: gross sales versus net profit, single-machine performance versus whole-route income, and self-reported survey data versus industry-wide averages. Always check whether a figure is gross or net, and whether it describes one machine or an entire operation.
 
 Sources: [BizBuySell Vending Machine Business Valuation Benchmarks](https://www.bizbuysell.com/learning-center/valuation-benchmarks/vending-machine-business/), [NAMA Foundation 2022-2023 Industry Census](https://namanow.org/wp-content/uploads/NAMA-Census-FINAL.pdf), [The Hustle, "The economics of vending machines"](https://thehustle.co/the-economics-of-vending-machines).
-
-<!-- humanizer QA: separated single-machine income from established multi-machine route income using three distinct named sources instead of blending them into one misleading average; explicitly labeled the 35-machine and 250-machine examples as individual cases rather than implying a proportional formula; verified zero em dashes and en dashes in final text. -->

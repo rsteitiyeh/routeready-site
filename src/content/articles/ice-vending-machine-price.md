@@ -64,5 +64,3 @@ Franchise disclosure data compiled from IceBorn's numbers suggests an average ma
 At minimum: a reinforced concrete pad rated for the machine's weight, a water supply line, a drain line, and dedicated electrical service matching the manufacturer's spec. Outdoor sites exposed to vehicle traffic also need protective bollards.
 
 Sources: [Boreas Iceman technical specifications](https://www.boreasiceman.com/technical), [Sharpsheets IceBorn franchise cost analysis](https://sharpsheets.io/blog/iceborn-franchise-fdd-profits-costs-fees/).
-
-<!-- humanizer QA: flagged and removed unverifiable brand names surfaced in early research; labeled manufacturer/franchisor revenue claims as marketing claims rather than neutral fact; cut generic "the future of ice vending" style closer; verified zero em dashes and en dashes in final text. -->

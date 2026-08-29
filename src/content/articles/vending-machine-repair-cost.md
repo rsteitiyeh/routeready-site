@@ -73,5 +73,3 @@ A refrigeration compressor replacement, typically $200 to $500 in parts and labo
 It depends on the repair cost relative to the machine's resale value. If a repair exceeds roughly 50% of what the machine is currently worth, most operators are better off replacing it, especially if other components are also aging or parts are becoming hard to source.
 
 Source: [Wendor, Vending Machine Repair Costs: What to Expect (2026)](https://wendor.ai/blog/vending-machine-repair-cost/).
-
-<!-- humanizer QA: built a real component-by-component repair cost table instead of one vague "repairs vary" range, and explicitly split DIY-safe repairs from technician-required repairs with the underlying reason (refrigerant certification, control board reprogramming) rather than just labeling categories; added the 50% resale-value rule as a concrete repair-vs-replace decision point; verified zero em dashes and en dashes in final text. -->

@@ -66,5 +66,3 @@ Provider data from Nayax reports payback in 4 to 8 months on average, and as fas
 Retrofit an existing machine in good mechanical condition, since a standalone card reader is far cheaper than replacing a working machine. Buy new with cashless built in for a first machine or when expanding your route with additional units.
 
 Sources: [Nayax, Vending Machine Payment Solutions](https://www.nayax.com/business_type/vending/), [Vendbuddy, "Best Vending Machine Card Readers 2026"](https://vendbuddy.io/blog/best-vending-machine-card-readers-2026), [VMFS USA current catalog pricing](https://vmfsusa.com/collections/all).
-
-<!-- humanizer QA: pulled hardware and fee numbers directly from Nayax's own published FAQ and a named third-party comparison instead of a rounded generic "a few hundred dollars" claim, and separated the new-versus-retrofit decision into its own explicit section rather than assuming everyone is buying a brand-new machine; verified zero em dashes and en dashes in final text. -->

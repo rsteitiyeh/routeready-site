@@ -93,5 +93,3 @@ Every state requires at least a sales tax or seller's permit for vending machine
 Most hosts expect 10% to 15% of gross sales for a standard location like a break room or laundromat, rising to 20% to 30% at high traffic venues like malls or transit hubs, according to vending brokerage data from DFY Vending. Some smaller locations accept a flat monthly fee of $50 to $300 instead of a percentage.
 
 Running the real numbers on a candy machine before you buy is the whole game: our VendingStartup profit calculator lets you plug in your own vend price, location commission, and candy cost to see the actual monthly take before you sign a location agreement. If you're weighing your first machine against a full route, our startup guide walks through the buying, permitting, and placement sequence in order.
-
-<!-- humanizer QA: draft reviewed for stock vending-blog phrasing ("industry experts agree", "the sky's the limit"), removed generic transitions ("let's dive in"), replaced rounded filler claims with sourced or self-computed numbers, verified zero em dashes and en dashes in final text, varied sentence length paragraph to paragraph. -->

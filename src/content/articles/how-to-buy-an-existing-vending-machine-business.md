@@ -70,5 +70,3 @@ Ask for twelve months of bank or processor statements per machine, whether each 
 Compare it to the verified seller discretionary earnings multiplied by a market-standard multiple (median 2.15x for sold vending businesses per BizBuySell), not the seller's stated asking price, which tends to run higher than what routes actually sell for.
 
 Sources: [BizBuySell Vending Machine Business Valuation Benchmarks](https://www.bizbuysell.com/learning-center/valuation-benchmarks/vending-machine-business/), [SBA, 7(a) loans](https://www.sba.gov/funding-programs/loans/7a-loans), [SBA, "Buy an existing business or franchise"](https://www.sba.gov/business-guide/plan-your-business/buy-existing-business-or-franchise).
-
-<!-- humanizer QA: structured the buying process around the same verified BizBuySell multiple used in our routes-valuation article rather than inventing a separate rounded range, keeping the two pieces consistent; named the specific SBA acquisition-loan eligibility rule (2 to 5 years profitable) instead of implying any buyer can get financing; verified zero em dashes and en dashes in final text. -->

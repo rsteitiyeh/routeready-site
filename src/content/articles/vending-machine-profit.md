@@ -69,5 +69,3 @@ There's no fixed number, since it depends entirely on individual machine perform
 Product cost, commonly around half of gross sales, is the largest single line item, followed by location commission. Both scale directly with sales volume, which is why location traffic matters more to actual profit than almost any other single decision.
 
 Sources: [NAMA Foundation 2022-2023 Industry Census](https://namanow.org/wp-content/uploads/NAMA-Census-FINAL.pdf), [The Hustle, "The economics of vending machines"](https://thehustle.co/the-economics-of-vending-machines).
-
-<!-- humanizer QA: replaced a single rounded "vending machines are profitable" claim with a worked line-item table using two named, dated sources; explicitly flagged the "more machines = proportionally more profit" claim as unsupported instead of implying a clean multiplier; verified zero em dashes and en dashes in final text. -->
